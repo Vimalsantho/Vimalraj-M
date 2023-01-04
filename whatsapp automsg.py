@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg("+916380921834","Hi la", 17,52)
+pywhatkit.sendwhatmsg("Enter whatsapp number here","Hi la", 17,52)
